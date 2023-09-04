@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="max-container">
       <div
-        className="flex flex-col justify-between
+        className="flex justify-between
             items-start gap-20 flex-wrap max-lg:flex-col"
       >
         <div className="flex flex-col items-start">
@@ -31,6 +31,7 @@ const Footer = () => {
             ))}
           </div>
         </div>
+
         <div
           className="flex flex-1 justify-between
          lg:gap-10 gap-20 flex-wrap"
