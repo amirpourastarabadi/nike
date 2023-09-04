@@ -11,7 +11,7 @@ import {
 import Nav from "./components/Nav";
 
 const App = () => (
-  <main className="relative px-6">
+  <main className="relative">
     <Nav />
     <section className="padding">
       <Hero />

@@ -5,6 +5,7 @@ const Subscribe = () => {
     <section
       className="flex justify-between items-center 
         max-lg:flex-col gap-10 max-container"
+        id="contact-us"
     >
       <h3
         className="font-bold text-4xl 
